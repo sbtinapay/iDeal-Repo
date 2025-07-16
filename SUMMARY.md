@@ -43,6 +43,14 @@
 * [Stock Audit](inventory/stock-audit.md)
 * [Warehouse Entry/Aging/Assets/Merchandises](inventory/warehouse-entry-aging-assets-merchandises.md)
 
+## Reconcilling Items
+
+* [Promo Replacement](reconcilling-items/promo-replacement.md)
+
+***
+
+* [Bad Order](bad-order.md)
+
 ## Salary & Wages
 
 * [Employee & Payroll Category](salary-and-wages/employee-and-payroll-category.md)
