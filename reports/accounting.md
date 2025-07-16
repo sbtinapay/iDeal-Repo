@@ -1,17 +1,6 @@
 ---
 description: This reports include Payable & Receivables of the company
 noRobotsIndex: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Accounting
