@@ -47,10 +47,6 @@
 
 * [Promo Replacement](reconcilling-items/promo-replacement.md)
 
-***
-
-* [Bad Order](bad-order.md)
-
 ## Salary & Wages
 
 * [Employee & Payroll Category](salary-and-wages/employee-and-payroll-category.md)

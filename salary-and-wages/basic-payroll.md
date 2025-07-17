@@ -65,11 +65,11 @@ From the payroll list. You may choose payroll period you want to release.
 _Note: You can only release payroll if hte status is APPROVED._
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Click **RELEASED** to release the payroll.
 
 Status now will change to **RELEASED** in payroll list.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 

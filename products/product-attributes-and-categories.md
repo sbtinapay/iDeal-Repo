@@ -8,18 +8,18 @@ noRobotsIndex: true
 
 From **Main Menu > Products > Attributes.** Click **+NEW ATTRIBUTES**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enter the name (e.g 330 ml) and it corresponding conversion(if applicable). Click **SAVE** to add.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Add Categories
 
 From **Main Menu > Products > Categories.** Click **+NEW CATEGORY**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enter the category name (e.g Alcoholic) and description if any. Click **SAVE** to add.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

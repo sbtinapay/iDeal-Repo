@@ -29,7 +29,7 @@ The list of products will display their respective ages. Products that exceed th
 Click **PRINT AGING** to generate a printed version of the aging report.\
 
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Add Assets
 
@@ -39,11 +39,11 @@ Go to **Main Menu** > **Inventory** > **Assets**
 
 Click **+MORE ASSETS** to add.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fill in the Name, Price, and Initial Stock fields for your assets. Click **SAVE** to quickly add.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Add Merchandises
 
@@ -51,8 +51,8 @@ Go to **Main Menu** > **Inventory** > **Merchandises**
 
 Click **+ADD MERCHANDISES** to add.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enter the Name, Value, and Quantity information for your merchandise. Click **SAVE** to quickly add.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
